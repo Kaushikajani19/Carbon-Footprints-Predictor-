@@ -1,0 +1,5 @@
+Model,Test_R2,Test_RMSE,Test_MAE,Train_R2,Overfit
+Linear Regression,0.9998,0.04,0.03,0.9998,0.0
+Random Forest,0.9816,0.37,0.24,0.9949,0.0133
+Gradient Boosting,0.9902,0.27,0.17,0.9996,0.0094
+LightGBM,0.9901,0.27,0.18,0.9992,0.0091
